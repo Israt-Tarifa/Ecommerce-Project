@@ -123,10 +123,8 @@ More Functionality will be added with time
 
 ![Screenshot (318)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/7c4435d7-a98d-4f26-a722-d25bc31ae3f4)
 
-![Screenshot (319)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/83b1240f-d930-493c-abf5-dce3efcb36b1)
 
 ![Screenshot (342)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/643695d5-783c-4373-8735-332636e6df61)
-
 
 ![Screenshot (321)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/c50d82d5-38f4-4e44-98c6-042a2b18b457)
 
